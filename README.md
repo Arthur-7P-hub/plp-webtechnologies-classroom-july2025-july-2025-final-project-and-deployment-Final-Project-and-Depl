@@ -25,7 +25,7 @@ This multipage website showcases our services, gallery, and contact information 
 
 ## 🚀 **Live Demo**
 🔗 **Live Website:** [View Here](https://github.com/Arthur-7P-hub/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git)  
-_(Replace with your actual GitHub Pages link after deployment)_
+_(https://arthur-7p-hub.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)_
 
 ---
 
