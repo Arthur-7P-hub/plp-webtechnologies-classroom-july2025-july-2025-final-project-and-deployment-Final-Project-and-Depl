@@ -21,7 +21,9 @@ This multipage website showcases our services, gallery, and contact information 
 - **Font Awesome** – Social media icons.
 - **GitHub Pages** – Website hosting and deployment.
 
----
+---## 📂 Project Structure
+
+
 
 ## 🚀 **Live Demo**
 🔗 **Live Website:** [View Here](https://github.com/Arthur-7P-hub/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git)  
